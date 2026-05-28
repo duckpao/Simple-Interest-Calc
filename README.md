@@ -1,1 +1,1 @@
-# Simple-Interest-Calc
+# Simple Interest Calculator Project
